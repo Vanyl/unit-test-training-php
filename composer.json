@@ -1,4 +1,7 @@
 {
+    "name": "php-unit-project",
+    "description": "github project forked",
+    
     "autoload": {
         "classmap": [
             "src/"
